@@ -12,6 +12,7 @@
 		font-size: 11pt;
 		font-weight: 400;
 		color: #000000;
+        color: rgba(255,255,255,0.4);
 	}
 	
 	
@@ -20,6 +21,10 @@
 		margin: 0;
 		padding: 0;
 	}
+
+    h3 {
+        font-size: 1.8em;
+    }
 	
 	p, ol, ul
 	{

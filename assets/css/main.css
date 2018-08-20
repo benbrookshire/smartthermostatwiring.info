@@ -1768,9 +1768,17 @@ ul.icons {
   .image.fit {
     display: block;
     margin: 0 0 2rem 0;
-    width: 100%; }
+    width: 100%;  }
     .image.fit img {
       width: 100%; }
+  .image.inline {
+    display: block;
+    margin: 0 0 2rem 0;
+    width: 100%; }
+    .image.inline img{
+      max-width: 70vw;
+      max-height: 60vh;
+      width: auto; }
   .image.main {
     display: block;
     margin: 0 0 3rem 0;
